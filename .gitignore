@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/TestZone/cube6.bmp
+/TestZone/cube5.bmp
+/TestZone/cube4.bmp
+/TestZone/cube3.bmp
+/TestZone/cube2.bmp
+/TestZone/cube1.bmp
+/TestZone/cube0.bmp
